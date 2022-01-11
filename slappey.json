@@ -1,0 +1,10 @@
+{
+  "name": "security",
+  "language": "javascript",
+  "manager": "npm",
+  "token": "NzkzNTY4MzgwOTE3MjUyMTYz.X-uKJQ.YqjEZiCR5IZTZS5QX96eJwctmDU",
+  "trelloAppKey": "bd999fd4477ce720abbeb0c3eba1b6b4",
+  "trelloToken": "fdc776e85b9823e59d6c1c6c7428789b2c414b9626bf3c812fc6858ef0873c57",
+  "listID": "5fee172a04a5d22abf370322",
+  "prefix": "-"
+}
