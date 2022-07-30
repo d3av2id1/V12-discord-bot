@@ -1,2 +1,2 @@
 # V12-discord-bot
-An old discord bot that I was working on, switched to V13 and slash commands on another one.
+A old discord bot based on discord.js V12, it broke so I had to switch to Discord.js V13. Never wanted to fix it, most of it is still broken.
